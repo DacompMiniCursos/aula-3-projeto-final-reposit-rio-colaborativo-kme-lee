@@ -11,7 +11,8 @@ def divisão(a,b):
     return a/b
 
 def subtração(a,b):
-    return a - b
+    x = a - b
+    return x
 
 def adição(a,b):
     return a + b
